@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Blackcoasttt
 - 👀 I’m interested in programaçao
-- 🌱 I’m currently learning  HTML/CSS/BOTSTRAP/PHP/JS/BANCO DE DADOS
+- 🌱 HTML/CSS/BOTSTRAP/PHP/JS/BANCO DE DADOS/PYTHON===
 - 💞️ I’m looking to collaborate on pequenos projetos open source
 - 📫 How to reach me 75999625950/alysonpr2011@gmail.com
 
